@@ -16,6 +16,7 @@ Technical specification and implementation guidelines for the OPAWG open source 
 [![Mark Steadman](https://avatars.githubusercontent.com/u/3310393?s=32&v=4)](https://github.com/amarksteadman)
 [![James Cridland](https://avatars.githubusercontent.com/u/231941?s=32&v=4)](https://github.com/jamescridland)
 [![Bryan Barletta](https://avatars.githubusercontent.com/u/76928378?s=32&v=4)](https://github.com/BryanBarletta)
+[![Andrew Pellett](https://avatars.githubusercontent.com/u/1068876?s=32&v=4)](https://github.com/anrope)
 
 ## Contributing
 
