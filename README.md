@@ -7,3 +7,4 @@ Technical specification and implementation guidelines for the OPAWG open source 
 - [Summary](./pages/summary.md)
 - [Overview](./pages/overview.md)
 - [Downloads vs streams](./pages/downloads-vs-streams.md)
+- [Log file parsing](./pages/log-parsing.md)
